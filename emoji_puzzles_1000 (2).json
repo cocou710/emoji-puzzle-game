@@ -1,0 +1,5002 @@
+[
+  {
+    "emoji": "🦁👑",
+    "answer": "The Lion King",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🧊🚢",
+    "answer": "Titanic",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🕷️🧑",
+    "answer": "Spider-Man",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🧙🪄",
+    "answer": "Harry Potter",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🧑‍🚀🌕",
+    "answer": "Interstellar",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🐼🥋",
+    "answer": "Kung Fu Panda",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🐉🏮",
+    "answer": "How to Train Your Dragon",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🦖🦕",
+    "answer": "Jurassic Park",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💣🔫",
+    "answer": "Mission Impossible",
+    "category": "Movie"
+  },
+  {
+    "emoji": "👻🏠",
+    "answer": "The Conjuring",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🍔👑",
+    "answer": "Burger King",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🍎💻",
+    "answer": "Apple",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🏎️🐂",
+    "answer": "Red Bull",
+    "category": "Brand"
+  },
+  {
+    "emoji": "📱📷",
+    "answer": "Samsung",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🧢👟",
+    "answer": "Nike",
+    "category": "Brand"
+  },
+  {
+    "emoji": "📦🚚",
+    "answer": "Amazon",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🎮🕹️",
+    "answer": "Xbox",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🐅🧢",
+    "answer": "Puma",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🍩☕",
+    "answer": "Dunkin Donuts",
+    "category": "Brand"
+  },
+  {
+    "emoji": "👖👕",
+    "answer": "Levi's",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🎉🎊",
+    "answer": "Party Time",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "💡⚡",
+    "answer": "Bright Idea",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "⏰🛌",
+    "answer": "Wake Up",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🏃💨",
+    "answer": "Hurry Up",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🧠🔥",
+    "answer": "Mind Blown",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "😴🌙",
+    "answer": "Good Night",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🔄🌀",
+    "answer": "Going in Circles",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "💔😭",
+    "answer": "Heart Break",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🌧️☔",
+    "answer": "Rainy Day",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🚪🏃",
+    "answer": "Run Away",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🦄🚗🧠",
+    "answer": "Smart Phone",
+    "category": "Place"
+  },
+  {
+    "emoji": "🎯🧊🍩🚀",
+    "answer": "Power Brain",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🐱🚀📚",
+    "answer": "Ice Cream",
+    "category": "Technology"
+  },
+  {
+    "emoji": "💼💧📷",
+    "answer": "Happy World",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🎯🧊🎸💧",
+    "answer": "Smart Goal",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🕶️⚡💧",
+    "answer": "Electric Fire",
+    "category": "Place"
+  },
+  {
+    "emoji": "👑🎯",
+    "answer": "Dream Space",
+    "category": "Brand"
+  },
+  {
+    "emoji": "💼🌍👑🦄",
+    "answer": "Power Brain",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🎯🌍🐱🎮",
+    "answer": "Smart Goal",
+    "category": "Food"
+  },
+  {
+    "emoji": "💼📷🎬",
+    "answer": "Galaxy Quest",
+    "category": "Food"
+  },
+  {
+    "emoji": "🐶🌍🍦",
+    "answer": "Galaxy Quest",
+    "category": "Place"
+  },
+  {
+    "emoji": "📱🏆",
+    "answer": "Electric Fire",
+    "category": "Place"
+  },
+  {
+    "emoji": "🏆🪐💧",
+    "answer": "Galaxy Quest",
+    "category": "Activity"
+  },
+  {
+    "emoji": "⚡🎮",
+    "answer": "Power Brain",
+    "category": "Place"
+  },
+  {
+    "emoji": "🪐🎵🎯❤️",
+    "answer": "Fast Car",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🎮🧠",
+    "answer": "Power Brain",
+    "category": "Food"
+  },
+  {
+    "emoji": "🦄🎵",
+    "answer": "Cool Night",
+    "category": "Movie"
+  },
+  {
+    "emoji": "📚💼🎵🚗",
+    "answer": "Fast Mind",
+    "category": "Technology"
+  },
+  {
+    "emoji": "💧🍦🎮",
+    "answer": "Fast Car",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🦄🎬🌍🚀",
+    "answer": "Rocket Love",
+    "category": "Place"
+  },
+  {
+    "emoji": "🎸📱🌍🚀",
+    "answer": "Happy World",
+    "category": "Object"
+  },
+  {
+    "emoji": "🌍📚🎸🎵",
+    "answer": "Moon Ice",
+    "category": "Object"
+  },
+  {
+    "emoji": "🌈⚡🚀",
+    "answer": "Moon Ice",
+    "category": "Place"
+  },
+  {
+    "emoji": "🐶📱📱",
+    "answer": "Funny Cat",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🍩🚀",
+    "answer": "Happy World",
+    "category": "Technology"
+  },
+  {
+    "emoji": "⚡💧",
+    "answer": "Moon Ice",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🌍📱📷",
+    "answer": "Electric Fire",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🚀🏆",
+    "answer": "Fast Car",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🚗🪐📱❤️",
+    "answer": "Cool Night",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🍕🧊🚗",
+    "answer": "Ice Power",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🚗🏆🌈",
+    "answer": "Moon Ice",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🪐🎵📱💧",
+    "answer": "Electric Fire",
+    "category": "Food"
+  },
+  {
+    "emoji": "🎮🕶️🍦💧",
+    "answer": "Ice Power",
+    "category": "Place"
+  },
+  {
+    "emoji": "🐱💼",
+    "answer": "Ice Power",
+    "category": "Activity"
+  },
+  {
+    "emoji": "📚🎯",
+    "answer": "Funny Cat",
+    "category": "Food"
+  },
+  {
+    "emoji": "🔥🎮💧🚀",
+    "answer": "Moon Ice",
+    "category": "Place"
+  },
+  {
+    "emoji": "🌍🧊🎮❤️",
+    "answer": "Moon Ice",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🌈🍩",
+    "answer": "Smart Goal",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🪐🎬🐶",
+    "answer": "Galaxy Quest",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🎮⚡🦄🌍",
+    "answer": "Moon Ice",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🐶📱🦄",
+    "answer": "Ice Cream",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "💧🚗👑",
+    "answer": "Smart Phone",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🎵💧💡",
+    "answer": "Cool Night",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "👑🎯",
+    "answer": "Ice Cream",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🍩🎬🍕",
+    "answer": "Smart Phone",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "📚🌍",
+    "answer": "Ice Power",
+    "category": "Technology"
+  },
+  {
+    "emoji": "❤️📷",
+    "answer": "Ice Power",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🍩🌈💡",
+    "answer": "Funny Cat",
+    "category": "Movie"
+  },
+  {
+    "emoji": "📷🌍💧🚗",
+    "answer": "Rocket Love",
+    "category": "Food"
+  },
+  {
+    "emoji": "📱📚",
+    "answer": "Funny Cat",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🚀🧠",
+    "answer": "Smart Goal",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🔥🎯",
+    "answer": "Rocket Love",
+    "category": "Activity"
+  },
+  {
+    "emoji": "👑🧊🎯",
+    "answer": "Smart Phone",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🚗🍕❤️",
+    "answer": "Cool Night",
+    "category": "Brand"
+  },
+  {
+    "emoji": "📱🍦",
+    "answer": "Moon Ice",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🌈🎯🦄",
+    "answer": "Moon Ice",
+    "category": "Place"
+  },
+  {
+    "emoji": "🔥🪐🪐🌍",
+    "answer": "Electric Fire",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🌍🎵🍦🕶️",
+    "answer": "Smart Goal",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🍕👑🎬",
+    "answer": "Power Brain",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "📷🍕🦄",
+    "answer": "Moon Ice",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🦄📱🎸🐱",
+    "answer": "Cool Night",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🌈🌍",
+    "answer": "Cool Night",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🐱🦄",
+    "answer": "Fast Mind",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🦄❤️",
+    "answer": "Smart Phone",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🐱🍩",
+    "answer": "Funny Cat",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🔥🔥",
+    "answer": "Electric Fire",
+    "category": "Place"
+  },
+  {
+    "emoji": "💼🎵🚗",
+    "answer": "Smart Phone",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🕶️💧🏆",
+    "answer": "Ice Cream",
+    "category": "Object"
+  },
+  {
+    "emoji": "🦄📱🎬🚗",
+    "answer": "Smart Phone",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🧠📷🎯🚀",
+    "answer": "Ice Cream",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🪐❤️",
+    "answer": "Fast Car",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🪐🏆",
+    "answer": "Galaxy Quest",
+    "category": "Activity"
+  },
+  {
+    "emoji": "💧🕶️💧🌍",
+    "answer": "Moon Ice",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🧊🕶️🐱🚗",
+    "answer": "Ice Cream",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🕶️❤️📚",
+    "answer": "Rocket Love",
+    "category": "Technology"
+  },
+  {
+    "emoji": "💼🍕💧🍦",
+    "answer": "Smart Goal",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🧠🐱",
+    "answer": "Dream Space",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🌍🧠",
+    "answer": "Galaxy Quest",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🕶️📷📷",
+    "answer": "Funny Cat",
+    "category": "Object"
+  },
+  {
+    "emoji": "🏆💧📷🎸",
+    "answer": "Moon Ice",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🍩🎯💧",
+    "answer": "Cool Night",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "💡🐶🐱🎵",
+    "answer": "Electric Fire",
+    "category": "Food"
+  },
+  {
+    "emoji": "🚀🦄",
+    "answer": "Electric Fire",
+    "category": "Place"
+  },
+  {
+    "emoji": "🪐❤️🚗",
+    "answer": "Ice Power",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💧🐱⚡💡",
+    "answer": "Funny Cat",
+    "category": "Object"
+  },
+  {
+    "emoji": "🌍🎸🐱📚",
+    "answer": "Smart Goal",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🚗⚡",
+    "answer": "Electric Fire",
+    "category": "Object"
+  },
+  {
+    "emoji": "🌈🍩💧",
+    "answer": "Smart Goal",
+    "category": "Place"
+  },
+  {
+    "emoji": "🕶️💡🪐",
+    "answer": "Power Brain",
+    "category": "Animal"
+  },
+  {
+    "emoji": "📱🧠",
+    "answer": "Ice Power",
+    "category": "Brand"
+  },
+  {
+    "emoji": "💡⚡",
+    "answer": "Smart Phone",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🚗🌈🎵❤️",
+    "answer": "Rocket Love",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "📱🌈🦄",
+    "answer": "Fast Mind",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🎬📚🔥",
+    "answer": "Funny Cat",
+    "category": "Place"
+  },
+  {
+    "emoji": "❤️🏆🕶️",
+    "answer": "Happy World",
+    "category": "Technology"
+  },
+  {
+    "emoji": "💡🍦🧊",
+    "answer": "Funny Cat",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🌈🐶🧊",
+    "answer": "Funny Cat",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🔥💡",
+    "answer": "Ice Cream",
+    "category": "Object"
+  },
+  {
+    "emoji": "💧🚗🐶",
+    "answer": "Cool Night",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🌍🏆💼🕶️",
+    "answer": "Rocket Love",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🐱❤️📱",
+    "answer": "Smart Goal",
+    "category": "Place"
+  },
+  {
+    "emoji": "🎬💧",
+    "answer": "Ice Cream",
+    "category": "Activity"
+  },
+  {
+    "emoji": "📷🎵🌈",
+    "answer": "Fast Mind",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🐶🎸🕶️",
+    "answer": "Cool Night",
+    "category": "Technology"
+  },
+  {
+    "emoji": "❤️🐶🦄",
+    "answer": "Galaxy Quest",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🍩🏆",
+    "answer": "Electric Fire",
+    "category": "Food"
+  },
+  {
+    "emoji": "🧊🧊🌈",
+    "answer": "Electric Fire",
+    "category": "Technology"
+  },
+  {
+    "emoji": "💼🚗🎬🕶️",
+    "answer": "Cool Night",
+    "category": "Food"
+  },
+  {
+    "emoji": "🎬🧠",
+    "answer": "Rocket Love",
+    "category": "Object"
+  },
+  {
+    "emoji": "🎮🏆",
+    "answer": "Fast Car",
+    "category": "Animal"
+  },
+  {
+    "emoji": "📚🪐",
+    "answer": "Fast Car",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🍩🪐🎮❤️",
+    "answer": "Cool Night",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🌍🧊",
+    "answer": "Rocket Love",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🔥🎯🏆💡",
+    "answer": "Fast Car",
+    "category": "Technology"
+  },
+  {
+    "emoji": "💡👑🚗🕶️",
+    "answer": "Smart Goal",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🎯📱🏆",
+    "answer": "Moon Ice",
+    "category": "Food"
+  },
+  {
+    "emoji": "🏆⚡💡",
+    "answer": "Ice Cream",
+    "category": "Place"
+  },
+  {
+    "emoji": "📚🧠📱",
+    "answer": "Dream Space",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🐶🏆📱🐶",
+    "answer": "Fast Mind",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🚀🦄",
+    "answer": "Moon Ice",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🎬🎯🏆🌍",
+    "answer": "Ice Cream",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🍦🎯",
+    "answer": "Fast Car",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🚗🎯🔥",
+    "answer": "Rocket Love",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🦄📱",
+    "answer": "Power Brain",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🌍🚗",
+    "answer": "Ice Power",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🎬❤️🍩",
+    "answer": "Ice Power",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🚗📷🦄🚗",
+    "answer": "Rocket Love",
+    "category": "Food"
+  },
+  {
+    "emoji": "🍕🌍🔥🌈",
+    "answer": "Smart Goal",
+    "category": "Food"
+  },
+  {
+    "emoji": "🕶️📚🐱",
+    "answer": "Cool Night",
+    "category": "Place"
+  },
+  {
+    "emoji": "🚗🧊🍦🧠",
+    "answer": "Smart Goal",
+    "category": "Animal"
+  },
+  {
+    "emoji": "📚💼📷🏆",
+    "answer": "Smart Goal",
+    "category": "Food"
+  },
+  {
+    "emoji": "🎮🏆💼💡",
+    "answer": "Power Brain",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🐶👑📷🚗",
+    "answer": "Ice Power",
+    "category": "Object"
+  },
+  {
+    "emoji": "🎬🔥💡",
+    "answer": "Happy World",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🍕🍦🍦",
+    "answer": "Funny Cat",
+    "category": "Place"
+  },
+  {
+    "emoji": "🍕❤️📷🎵",
+    "answer": "Fast Car",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🎮🎸🐶",
+    "answer": "Funny Cat",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🐱🏆🕶️",
+    "answer": "Fast Car",
+    "category": "Place"
+  },
+  {
+    "emoji": "🍦💼🌈",
+    "answer": "Fast Mind",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🔥👑🎮",
+    "answer": "Happy World",
+    "category": "Object"
+  },
+  {
+    "emoji": "🐶🍕💧🎬",
+    "answer": "Cool Night",
+    "category": "Animal"
+  },
+  {
+    "emoji": "📱🌈🔥🎬",
+    "answer": "Galaxy Quest",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🧊🔥🎸👑",
+    "answer": "Electric Fire",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🍕🕶️🐶🎸",
+    "answer": "Fast Car",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🍕📷🍦",
+    "answer": "Cool Night",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🕶️💡💡",
+    "answer": "Ice Power",
+    "category": "Food"
+  },
+  {
+    "emoji": "🚗🧊🎯🍕",
+    "answer": "Rocket Love",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🌈🚀",
+    "answer": "Power Brain",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🎮🐱👑",
+    "answer": "Fast Mind",
+    "category": "Activity"
+  },
+  {
+    "emoji": "💧📚📚",
+    "answer": "Electric Fire",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🌈📱",
+    "answer": "Fast Car",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🚀🧊🔥",
+    "answer": "Happy World",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🏆👑🧊",
+    "answer": "Galaxy Quest",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🏆🎯",
+    "answer": "Dream Space",
+    "category": "Object"
+  },
+  {
+    "emoji": "📷🦄🎯",
+    "answer": "Happy World",
+    "category": "Place"
+  },
+  {
+    "emoji": "🎯💼🍕",
+    "answer": "Power Brain",
+    "category": "Place"
+  },
+  {
+    "emoji": "🎬📱🌍💼",
+    "answer": "Funny Cat",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🍕🌈🎵📷",
+    "answer": "Happy World",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🎯💡🔥",
+    "answer": "Smart Phone",
+    "category": "Food"
+  },
+  {
+    "emoji": "🌍🪐🎬",
+    "answer": "Smart Goal",
+    "category": "Place"
+  },
+  {
+    "emoji": "💡❤️",
+    "answer": "Ice Power",
+    "category": "Place"
+  },
+  {
+    "emoji": "❤️🐱🎯📱",
+    "answer": "Ice Cream",
+    "category": "Movie"
+  },
+  {
+    "emoji": "👑🏆🔥",
+    "answer": "Dream Space",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎬🦄📷",
+    "answer": "Smart Phone",
+    "category": "Food"
+  },
+  {
+    "emoji": "💧🚀💡🎯",
+    "answer": "Ice Power",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🧠👑🔥🍦",
+    "answer": "Ice Power",
+    "category": "Place"
+  },
+  {
+    "emoji": "🪐🍩🦄💧",
+    "answer": "Fast Car",
+    "category": "Movie"
+  },
+  {
+    "emoji": "❤️🦄💼",
+    "answer": "Smart Goal",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🕶️🎮",
+    "answer": "Smart Goal",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "💡⚡🚀",
+    "answer": "Happy World",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🏆🚀🚗",
+    "answer": "Power Brain",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🍩👑🔥🦄",
+    "answer": "Cool Night",
+    "category": "Object"
+  },
+  {
+    "emoji": "📱🪐🎵",
+    "answer": "Smart Goal",
+    "category": "Place"
+  },
+  {
+    "emoji": "🎵🪐🍦🐱",
+    "answer": "Moon Ice",
+    "category": "Activity"
+  },
+  {
+    "emoji": "💡🧊🌈",
+    "answer": "Rocket Love",
+    "category": "Place"
+  },
+  {
+    "emoji": "📱🧠🔥🍩",
+    "answer": "Funny Cat",
+    "category": "Food"
+  },
+  {
+    "emoji": "🦄🦄",
+    "answer": "Ice Power",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🧠📱📷",
+    "answer": "Funny Cat",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🧠❤️",
+    "answer": "Fast Mind",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🔥🧊",
+    "answer": "Power Brain",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🏆📷",
+    "answer": "Galaxy Quest",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "📚🐱🏆🎮",
+    "answer": "Fast Mind",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🎵📷",
+    "answer": "Smart Phone",
+    "category": "Brand"
+  },
+  {
+    "emoji": "💡🚗🎯",
+    "answer": "Funny Cat",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "⚡🌍🎯🕶️",
+    "answer": "Smart Goal",
+    "category": "Technology"
+  },
+  {
+    "emoji": "⚡🌍🍩",
+    "answer": "Smart Goal",
+    "category": "Place"
+  },
+  {
+    "emoji": "🍩❤️🍕",
+    "answer": "Rocket Love",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🪐🕶️🎯",
+    "answer": "Smart Goal",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "👑🎯🌍",
+    "answer": "Galaxy Quest",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🐱🎵",
+    "answer": "Electric Fire",
+    "category": "Place"
+  },
+  {
+    "emoji": "🚀📷",
+    "answer": "Cool Night",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🧠📷",
+    "answer": "Smart Phone",
+    "category": "Activity"
+  },
+  {
+    "emoji": "💡🕶️",
+    "answer": "Smart Goal",
+    "category": "Place"
+  },
+  {
+    "emoji": "🌍🍩",
+    "answer": "Galaxy Quest",
+    "category": "Movie"
+  },
+  {
+    "emoji": "❤️👑",
+    "answer": "Ice Cream",
+    "category": "Object"
+  },
+  {
+    "emoji": "🎯📚🕶️",
+    "answer": "Ice Power",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🍕📚⚡📚",
+    "answer": "Cool Night",
+    "category": "Food"
+  },
+  {
+    "emoji": "👑🎸",
+    "answer": "Happy World",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🪐🎯🏆⚡",
+    "answer": "Funny Cat",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🎯🐱🧠",
+    "answer": "Happy World",
+    "category": "Place"
+  },
+  {
+    "emoji": "📚⚡",
+    "answer": "Moon Ice",
+    "category": "Food"
+  },
+  {
+    "emoji": "🕶️🎮🎯",
+    "answer": "Rocket Love",
+    "category": "Food"
+  },
+  {
+    "emoji": "🎸🌍💧",
+    "answer": "Happy World",
+    "category": "Object"
+  },
+  {
+    "emoji": "🧠🦄🍩🚀",
+    "answer": "Ice Cream",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🕶️🏆",
+    "answer": "Galaxy Quest",
+    "category": "Food"
+  },
+  {
+    "emoji": "🚗💧",
+    "answer": "Smart Phone",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🐶🪐",
+    "answer": "Rocket Love",
+    "category": "Place"
+  },
+  {
+    "emoji": "👑🍦",
+    "answer": "Smart Phone",
+    "category": "Object"
+  },
+  {
+    "emoji": "🍕📚",
+    "answer": "Rocket Love",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🎸🐶🍕",
+    "answer": "Ice Cream",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💡💧🦄❤️",
+    "answer": "Cool Night",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🏆🐱🦄🎵",
+    "answer": "Smart Goal",
+    "category": "Movie"
+  },
+  {
+    "emoji": "❤️🚀🎬💧",
+    "answer": "Funny Cat",
+    "category": "Movie"
+  },
+  {
+    "emoji": "📱💧💼",
+    "answer": "Rocket Love",
+    "category": "Food"
+  },
+  {
+    "emoji": "🚗💧🎬📚",
+    "answer": "Galaxy Quest",
+    "category": "Object"
+  },
+  {
+    "emoji": "💧🪐🌍",
+    "answer": "Funny Cat",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🍦🍩",
+    "answer": "Galaxy Quest",
+    "category": "Object"
+  },
+  {
+    "emoji": "🎯🚀",
+    "answer": "Ice Power",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🐱🎸🕶️",
+    "answer": "Galaxy Quest",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "⚡👑",
+    "answer": "Ice Cream",
+    "category": "Object"
+  },
+  {
+    "emoji": "🕶️💼🍩⚡",
+    "answer": "Galaxy Quest",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🎬🦄🎬",
+    "answer": "Moon Ice",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🍦⚡🎵💡",
+    "answer": "Funny Cat",
+    "category": "Object"
+  },
+  {
+    "emoji": "🎸🧠🍦🦄",
+    "answer": "Ice Cream",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🍦🧊📷",
+    "answer": "Funny Cat",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🌈📚🎸📱",
+    "answer": "Funny Cat",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🦄📱🌈🎯",
+    "answer": "Funny Cat",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🍕⚡",
+    "answer": "Power Brain",
+    "category": "Food"
+  },
+  {
+    "emoji": "🍩🎵",
+    "answer": "Electric Fire",
+    "category": "Movie"
+  },
+  {
+    "emoji": "👑🍦🎵",
+    "answer": "Rocket Love",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🍦🔥❤️",
+    "answer": "Power Brain",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🔥🐶",
+    "answer": "Moon Ice",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🪐🌈🎮",
+    "answer": "Moon Ice",
+    "category": "Place"
+  },
+  {
+    "emoji": "🍩🌈🚀🍩",
+    "answer": "Dream Space",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🎵🏆",
+    "answer": "Smart Phone",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🪐⚡",
+    "answer": "Happy World",
+    "category": "Object"
+  },
+  {
+    "emoji": "🪐📚🧠💧",
+    "answer": "Happy World",
+    "category": "Place"
+  },
+  {
+    "emoji": "🧊🚗🦄👑",
+    "answer": "Smart Goal",
+    "category": "Food"
+  },
+  {
+    "emoji": "🪐🚗",
+    "answer": "Rocket Love",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🧊🎬",
+    "answer": "Smart Goal",
+    "category": "Food"
+  },
+  {
+    "emoji": "🍩📱",
+    "answer": "Funny Cat",
+    "category": "Object"
+  },
+  {
+    "emoji": "📚🌈🎵🧠",
+    "answer": "Ice Cream",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🦄👑",
+    "answer": "Power Brain",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🏆❤️🚗",
+    "answer": "Power Brain",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🔥⚡📱",
+    "answer": "Electric Fire",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🎵🐶🐶🌈",
+    "answer": "Galaxy Quest",
+    "category": "Object"
+  },
+  {
+    "emoji": "📱📱",
+    "answer": "Galaxy Quest",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🎯👑💧🍕",
+    "answer": "Cool Night",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "💧🐶",
+    "answer": "Happy World",
+    "category": "Object"
+  },
+  {
+    "emoji": "🚗🚗🎸",
+    "answer": "Ice Power",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🔥🐱❤️🚗",
+    "answer": "Dream Space",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🍦🪐🎸",
+    "answer": "Dream Space",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🪐🪐",
+    "answer": "Fast Mind",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "💧🐶💡🏆",
+    "answer": "Power Brain",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🚀❤️🚗",
+    "answer": "Smart Phone",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🦄🧠📱🎬",
+    "answer": "Rocket Love",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎯🦄💼💧",
+    "answer": "Galaxy Quest",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🪐🏆🦄🎯",
+    "answer": "Smart Goal",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🏆💧🍕",
+    "answer": "Smart Phone",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🐶🎬📱",
+    "answer": "Cool Night",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🪐🎵",
+    "answer": "Rocket Love",
+    "category": "Technology"
+  },
+  {
+    "emoji": "📱🎯🧠🎵",
+    "answer": "Fast Mind",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🚀🔥💼🍕",
+    "answer": "Ice Cream",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🌍🎯🔥",
+    "answer": "Fast Car",
+    "category": "Animal"
+  },
+  {
+    "emoji": "📱🎵",
+    "answer": "Happy World",
+    "category": "Technology"
+  },
+  {
+    "emoji": "⚡🎯📱",
+    "answer": "Rocket Love",
+    "category": "Place"
+  },
+  {
+    "emoji": "🧠⚡📷",
+    "answer": "Rocket Love",
+    "category": "Object"
+  },
+  {
+    "emoji": "🦄🚀🚗",
+    "answer": "Rocket Love",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🎬🍩🌈",
+    "answer": "Funny Cat",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🕶️🚀🧊🍩",
+    "answer": "Ice Cream",
+    "category": "Object"
+  },
+  {
+    "emoji": "🦄🧠🧊",
+    "answer": "Electric Fire",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🔥💡🌈",
+    "answer": "Rocket Love",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🎮🚀🍦",
+    "answer": "Fast Car",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🧠🐶",
+    "answer": "Fast Mind",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🍦🪐📷🏆",
+    "answer": "Power Brain",
+    "category": "Place"
+  },
+  {
+    "emoji": "💡🌈📷🧠",
+    "answer": "Ice Cream",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🚗🍕❤️🐶",
+    "answer": "Electric Fire",
+    "category": "Technology"
+  },
+  {
+    "emoji": "💡🧊🔥",
+    "answer": "Fast Car",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🌍👑",
+    "answer": "Funny Cat",
+    "category": "Brand"
+  },
+  {
+    "emoji": "📷🕶️🐶",
+    "answer": "Fast Mind",
+    "category": "Place"
+  },
+  {
+    "emoji": "🎮👑📷",
+    "answer": "Ice Power",
+    "category": "Food"
+  },
+  {
+    "emoji": "🐱🧠🎸",
+    "answer": "Ice Power",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🍩🌍",
+    "answer": "Rocket Love",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🍕🐱📷🐱",
+    "answer": "Galaxy Quest",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🍕🎵📱⚡",
+    "answer": "Dream Space",
+    "category": "Object"
+  },
+  {
+    "emoji": "🎮🎬",
+    "answer": "Ice Power",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🚀🐶",
+    "answer": "Ice Cream",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🧊💧🌍⚡",
+    "answer": "Ice Cream",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "⚡🎯🎯",
+    "answer": "Ice Cream",
+    "category": "Animal"
+  },
+  {
+    "emoji": "💧🍕🍩",
+    "answer": "Happy World",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🧊💼🧊🧊",
+    "answer": "Power Brain",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🎯🧊",
+    "answer": "Funny Cat",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🪐📱",
+    "answer": "Funny Cat",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🚀🏆🌈🐶",
+    "answer": "Happy World",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🎸🎵",
+    "answer": "Fast Car",
+    "category": "Food"
+  },
+  {
+    "emoji": "💼🐶🧠🎯",
+    "answer": "Rocket Love",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🍩🎸🐱📷",
+    "answer": "Rocket Love",
+    "category": "Object"
+  },
+  {
+    "emoji": "📷🍦",
+    "answer": "Fast Car",
+    "category": "Object"
+  },
+  {
+    "emoji": "⚡🔥🐶",
+    "answer": "Cool Night",
+    "category": "Food"
+  },
+  {
+    "emoji": "⚡🍕🦄",
+    "answer": "Rocket Love",
+    "category": "Place"
+  },
+  {
+    "emoji": "🍦🍩📷",
+    "answer": "Electric Fire",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎵🔥🌍🌈",
+    "answer": "Dream Space",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🔥⚡🚀📱",
+    "answer": "Fast Car",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🐶🧠🚗",
+    "answer": "Fast Mind",
+    "category": "Place"
+  },
+  {
+    "emoji": "🕶️📚",
+    "answer": "Galaxy Quest",
+    "category": "Object"
+  },
+  {
+    "emoji": "👑🌈📷⚡",
+    "answer": "Cool Night",
+    "category": "Object"
+  },
+  {
+    "emoji": "🐶🚀🐱🎵",
+    "answer": "Galaxy Quest",
+    "category": "Technology"
+  },
+  {
+    "emoji": "👑🌍🎵",
+    "answer": "Power Brain",
+    "category": "Food"
+  },
+  {
+    "emoji": "🍕👑🕶️",
+    "answer": "Electric Fire",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🚀🚀",
+    "answer": "Ice Power",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🌍🧊",
+    "answer": "Ice Cream",
+    "category": "Food"
+  },
+  {
+    "emoji": "💡🍕❤️💼",
+    "answer": "Electric Fire",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🍕🍩🎯🪐",
+    "answer": "Power Brain",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🍕📚",
+    "answer": "Fast Mind",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🦄👑",
+    "answer": "Smart Goal",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🎮👑🧊🌈",
+    "answer": "Power Brain",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🏆🐱🎮",
+    "answer": "Ice Cream",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🍦🎮",
+    "answer": "Fast Car",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎵🐱🚗",
+    "answer": "Electric Fire",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🚗🦄🎮",
+    "answer": "Funny Cat",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🌍🎯🚗🚀",
+    "answer": "Funny Cat",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🌈🍦",
+    "answer": "Galaxy Quest",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🦄⚡🐶",
+    "answer": "Ice Power",
+    "category": "Object"
+  },
+  {
+    "emoji": "🪐💧🐱🍦",
+    "answer": "Power Brain",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🚀💡🎸",
+    "answer": "Electric Fire",
+    "category": "Food"
+  },
+  {
+    "emoji": "❤️📱🚗",
+    "answer": "Electric Fire",
+    "category": "Technology"
+  },
+  {
+    "emoji": "❤️💡",
+    "answer": "Fast Car",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🎮💧❤️",
+    "answer": "Funny Cat",
+    "category": "Object"
+  },
+  {
+    "emoji": "🌈🕶️🪐🐱",
+    "answer": "Funny Cat",
+    "category": "Object"
+  },
+  {
+    "emoji": "🚗🚀🐶",
+    "answer": "Fast Mind",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "📷🐱",
+    "answer": "Ice Cream",
+    "category": "Object"
+  },
+  {
+    "emoji": "🍦🍦👑",
+    "answer": "Fast Car",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🔥🎮🎸",
+    "answer": "Ice Power",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🧠🌈",
+    "answer": "Moon Ice",
+    "category": "Activity"
+  },
+  {
+    "emoji": "📚🚀",
+    "answer": "Rocket Love",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🐶📱🍕",
+    "answer": "Ice Cream",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🍩🚀🌈🍩",
+    "answer": "Ice Cream",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🎯🍕🕶️📱",
+    "answer": "Happy World",
+    "category": "Food"
+  },
+  {
+    "emoji": "💧🎸💧🍦",
+    "answer": "Cool Night",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🦄🪐",
+    "answer": "Happy World",
+    "category": "Object"
+  },
+  {
+    "emoji": "🐱🐶🎵",
+    "answer": "Ice Power",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🚀🍩🧊",
+    "answer": "Rocket Love",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🌈💧",
+    "answer": "Cool Night",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🎸💧",
+    "answer": "Cool Night",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🕶️🍦📱🌈",
+    "answer": "Cool Night",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🧊🦄🔥📷",
+    "answer": "Moon Ice",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🏆💼",
+    "answer": "Happy World",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🚀🧊🍦🐶",
+    "answer": "Cool Night",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💡🚀",
+    "answer": "Power Brain",
+    "category": "Object"
+  },
+  {
+    "emoji": "🐱🍩",
+    "answer": "Smart Goal",
+    "category": "Place"
+  },
+  {
+    "emoji": "🍩📚🎬",
+    "answer": "Smart Goal",
+    "category": "Activity"
+  },
+  {
+    "emoji": "📚🎯🎵",
+    "answer": "Smart Goal",
+    "category": "Activity"
+  },
+  {
+    "emoji": "📱🕶️",
+    "answer": "Dream Space",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🎮💧📱",
+    "answer": "Power Brain",
+    "category": "Technology"
+  },
+  {
+    "emoji": "👑🎯",
+    "answer": "Fast Car",
+    "category": "Movie"
+  },
+  {
+    "emoji": "📷🌈🎬",
+    "answer": "Funny Cat",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🌍❤️",
+    "answer": "Happy World",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💡🧠⚡💡",
+    "answer": "Cool Night",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "👑🚀🧊❤️",
+    "answer": "Rocket Love",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💡⚡📚",
+    "answer": "Smart Goal",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🎵🐶🎵⚡",
+    "answer": "Moon Ice",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🔥📷🎯🎵",
+    "answer": "Fast Mind",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🚗💧🎸🧊",
+    "answer": "Funny Cat",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🚗⚡🪐🎯",
+    "answer": "Smart Goal",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🐶📷💡",
+    "answer": "Ice Cream",
+    "category": "Activity"
+  },
+  {
+    "emoji": "📚🎮📚",
+    "answer": "Fast Car",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🪐🎸",
+    "answer": "Galaxy Quest",
+    "category": "Place"
+  },
+  {
+    "emoji": "💡👑📱",
+    "answer": "Dream Space",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🍩⚡",
+    "answer": "Smart Phone",
+    "category": "Movie"
+  },
+  {
+    "emoji": "📚💧🧠",
+    "answer": "Smart Phone",
+    "category": "Technology"
+  },
+  {
+    "emoji": "👑🏆",
+    "answer": "Fast Mind",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎯🎵👑🎬",
+    "answer": "Fast Mind",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🔥💧",
+    "answer": "Electric Fire",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "📷🧊",
+    "answer": "Galaxy Quest",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🐱👑",
+    "answer": "Happy World",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🕶️🕶️💧🐶",
+    "answer": "Electric Fire",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🌍📚🦄",
+    "answer": "Funny Cat",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🧊👑🌍",
+    "answer": "Ice Cream",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🐶🧊",
+    "answer": "Power Brain",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🔥🍦",
+    "answer": "Fast Mind",
+    "category": "Place"
+  },
+  {
+    "emoji": "🍦🕶️💧",
+    "answer": "Happy World",
+    "category": "Animal"
+  },
+  {
+    "emoji": "👑🎮📚⚡",
+    "answer": "Dream Space",
+    "category": "Activity"
+  },
+  {
+    "emoji": "📱🚗🌍🍕",
+    "answer": "Smart Goal",
+    "category": "Place"
+  },
+  {
+    "emoji": "💼🧠🚀",
+    "answer": "Dream Space",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🔥❤️🧊",
+    "answer": "Ice Power",
+    "category": "Food"
+  },
+  {
+    "emoji": "🚗🌍🏆",
+    "answer": "Rocket Love",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🏆🧠🍕💼",
+    "answer": "Happy World",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🍦🎯🎮🏆",
+    "answer": "Fast Car",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🐱🏆❤️",
+    "answer": "Dream Space",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🧠⚡🎵🍩",
+    "answer": "Smart Goal",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🚀🪐🐶🚗",
+    "answer": "Smart Goal",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🍕🔥📱🎯",
+    "answer": "Happy World",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🏆🐱💡",
+    "answer": "Galaxy Quest",
+    "category": "Brand"
+  },
+  {
+    "emoji": "💧📱",
+    "answer": "Galaxy Quest",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🎯💼⚡🍩",
+    "answer": "Galaxy Quest",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🎸🦄",
+    "answer": "Dream Space",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🧊🪐",
+    "answer": "Cool Night",
+    "category": "Food"
+  },
+  {
+    "emoji": "📱🧠",
+    "answer": "Funny Cat",
+    "category": "Object"
+  },
+  {
+    "emoji": "💧🍩",
+    "answer": "Ice Power",
+    "category": "Place"
+  },
+  {
+    "emoji": "📷🚗💧🎬",
+    "answer": "Moon Ice",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "💧🚀💼",
+    "answer": "Happy World",
+    "category": "Animal"
+  },
+  {
+    "emoji": "⚡🔥🕶️💧",
+    "answer": "Fast Car",
+    "category": "Place"
+  },
+  {
+    "emoji": "🎵🏆",
+    "answer": "Ice Cream",
+    "category": "Object"
+  },
+  {
+    "emoji": "💡🍩❤️⚡",
+    "answer": "Dream Space",
+    "category": "Food"
+  },
+  {
+    "emoji": "🎵🍕",
+    "answer": "Ice Power",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🎯⚡🐱",
+    "answer": "Ice Power",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🧊🍕",
+    "answer": "Electric Fire",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🔥📱⚡",
+    "answer": "Electric Fire",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🎵🎮",
+    "answer": "Power Brain",
+    "category": "Activity"
+  },
+  {
+    "emoji": "⚡🍕🌈📱",
+    "answer": "Fast Mind",
+    "category": "Food"
+  },
+  {
+    "emoji": "💡🍦🍩🐶",
+    "answer": "Ice Power",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🐱🦄🚀",
+    "answer": "Ice Power",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🚗🐱🎮",
+    "answer": "Ice Cream",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🎸❤️🎬⚡",
+    "answer": "Rocket Love",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🧊💡",
+    "answer": "Cool Night",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🏆📱🕶️🎬",
+    "answer": "Electric Fire",
+    "category": "Brand"
+  },
+  {
+    "emoji": "❤️🦄",
+    "answer": "Rocket Love",
+    "category": "Movie"
+  },
+  {
+    "emoji": "👑📚🚀",
+    "answer": "Dream Space",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "📚💧📚",
+    "answer": "Fast Mind",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🌈🔥🪐",
+    "answer": "Ice Cream",
+    "category": "Food"
+  },
+  {
+    "emoji": "🏆🎮🕶️",
+    "answer": "Ice Power",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🔥📱🌈🕶️",
+    "answer": "Smart Goal",
+    "category": "Brand"
+  },
+  {
+    "emoji": "👑🚗💼❤️",
+    "answer": "Dream Space",
+    "category": "Food"
+  },
+  {
+    "emoji": "🌍💼🍕💡",
+    "answer": "Rocket Love",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🚀🔥",
+    "answer": "Happy World",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎵🌈",
+    "answer": "Electric Fire",
+    "category": "Food"
+  },
+  {
+    "emoji": "🐶🧠🕶️",
+    "answer": "Power Brain",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🧊🍩🎸🌍",
+    "answer": "Galaxy Quest",
+    "category": "Object"
+  },
+  {
+    "emoji": "🔥🍕🏆🧠",
+    "answer": "Funny Cat",
+    "category": "Place"
+  },
+  {
+    "emoji": "⚡🎬🎸",
+    "answer": "Moon Ice",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🔥📷🎯🎵",
+    "answer": "Smart Goal",
+    "category": "Brand"
+  },
+  {
+    "emoji": "💧🚀🧠🎸",
+    "answer": "Electric Fire",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🌈🍦",
+    "answer": "Smart Goal",
+    "category": "Movie"
+  },
+  {
+    "emoji": "⚡💼🚀",
+    "answer": "Happy World",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "📷🎬🍦🚀",
+    "answer": "Smart Phone",
+    "category": "Animal"
+  },
+  {
+    "emoji": "📷🚀",
+    "answer": "Electric Fire",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎵📱🐱⚡",
+    "answer": "Galaxy Quest",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "💼💡",
+    "answer": "Power Brain",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🎸📷💧",
+    "answer": "Electric Fire",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🧠🚀",
+    "answer": "Ice Cream",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🧊🔥🏆",
+    "answer": "Galaxy Quest",
+    "category": "Object"
+  },
+  {
+    "emoji": "🌍📱🎬🐶",
+    "answer": "Smart Phone",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🚀🕶️",
+    "answer": "Fast Mind",
+    "category": "Food"
+  },
+  {
+    "emoji": "🌈📷",
+    "answer": "Fast Mind",
+    "category": "Object"
+  },
+  {
+    "emoji": "🏆🍦",
+    "answer": "Cool Night",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "💧🎵🔥",
+    "answer": "Happy World",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "📷🦄🍦",
+    "answer": "Power Brain",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "📚🍩",
+    "answer": "Rocket Love",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🕶️⚡📱🎯",
+    "answer": "Fast Mind",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🕶️💡🎯🌍",
+    "answer": "Cool Night",
+    "category": "Movie"
+  },
+  {
+    "emoji": "⚡🏆⚡🌍",
+    "answer": "Happy World",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🕶️🎬",
+    "answer": "Happy World",
+    "category": "Object"
+  },
+  {
+    "emoji": "🎬🐶🍦",
+    "answer": "Smart Phone",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🚀🎯",
+    "answer": "Fast Car",
+    "category": "Object"
+  },
+  {
+    "emoji": "🎯🍦💡🎬",
+    "answer": "Fast Car",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💧🐶🐱",
+    "answer": "Smart Goal",
+    "category": "Movie"
+  },
+  {
+    "emoji": "❤️🔥",
+    "answer": "Smart Goal",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎬⚡📚",
+    "answer": "Power Brain",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🌍🎯💧",
+    "answer": "Funny Cat",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🧠🔥🏆🍩",
+    "answer": "Fast Mind",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🏆🍦",
+    "answer": "Electric Fire",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "💡🌍🎬",
+    "answer": "Funny Cat",
+    "category": "Animal"
+  },
+  {
+    "emoji": "📷💧💼🔥",
+    "answer": "Ice Cream",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🔥🚀🦄",
+    "answer": "Funny Cat",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🐶🚗💧💼",
+    "answer": "Cool Night",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🏆❤️💧",
+    "answer": "Ice Cream",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🧊🐶🎬🍕",
+    "answer": "Power Brain",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🎮🌈🎮🎮",
+    "answer": "Electric Fire",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🎵🌍",
+    "answer": "Rocket Love",
+    "category": "Food"
+  },
+  {
+    "emoji": "💧🪐",
+    "answer": "Galaxy Quest",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🎮👑🎬",
+    "answer": "Power Brain",
+    "category": "Place"
+  },
+  {
+    "emoji": "📱📚🚀🍦",
+    "answer": "Happy World",
+    "category": "Animal"
+  },
+  {
+    "emoji": "💼📷👑",
+    "answer": "Smart Phone",
+    "category": "Animal"
+  },
+  {
+    "emoji": "❤️❤️👑",
+    "answer": "Ice Power",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🕶️💡🚗💧",
+    "answer": "Cool Night",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💧📱",
+    "answer": "Galaxy Quest",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🍕🏆",
+    "answer": "Dream Space",
+    "category": "Food"
+  },
+  {
+    "emoji": "🍩🧊💼",
+    "answer": "Ice Power",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🦄🍕🪐👑",
+    "answer": "Cool Night",
+    "category": "Food"
+  },
+  {
+    "emoji": "🧊🍕",
+    "answer": "Smart Phone",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🔥🕶️",
+    "answer": "Fast Mind",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💧🎬📷",
+    "answer": "Fast Car",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🐱💼❤️⚡",
+    "answer": "Ice Cream",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🕶️🌈💡",
+    "answer": "Rocket Love",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎬🍕🔥🎸",
+    "answer": "Ice Cream",
+    "category": "Activity"
+  },
+  {
+    "emoji": "💡🍦",
+    "answer": "Electric Fire",
+    "category": "Food"
+  },
+  {
+    "emoji": "🕶️🧠🕶️",
+    "answer": "Fast Car",
+    "category": "Food"
+  },
+  {
+    "emoji": "📚🍩",
+    "answer": "Electric Fire",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎸📚",
+    "answer": "Fast Mind",
+    "category": "Object"
+  },
+  {
+    "emoji": "📱🌈📚📷",
+    "answer": "Ice Cream",
+    "category": "Food"
+  },
+  {
+    "emoji": "💡🚗",
+    "answer": "Smart Phone",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🐶👑📱🍦",
+    "answer": "Ice Cream",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🎯🎸🌍",
+    "answer": "Ice Power",
+    "category": "Technology"
+  },
+  {
+    "emoji": "❤️💡",
+    "answer": "Rocket Love",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🧊🐶🚗",
+    "answer": "Smart Phone",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🎮🚗💡",
+    "answer": "Funny Cat",
+    "category": "Place"
+  },
+  {
+    "emoji": "🕶️🌈👑👑",
+    "answer": "Cool Night",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "📱🍦🌍🌍",
+    "answer": "Power Brain",
+    "category": "Brand"
+  },
+  {
+    "emoji": "👑🌍💧",
+    "answer": "Galaxy Quest",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🔥🍦📷🎸",
+    "answer": "Fast Car",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🌍🍕🧠",
+    "answer": "Galaxy Quest",
+    "category": "Object"
+  },
+  {
+    "emoji": "🎮💧🚗",
+    "answer": "Ice Cream",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎮🎬🐱🍕",
+    "answer": "Happy World",
+    "category": "Object"
+  },
+  {
+    "emoji": "🪐📚📚🎮",
+    "answer": "Moon Ice",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🏆❤️🚗🔥",
+    "answer": "Happy World",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🚗📱🎯🕶️",
+    "answer": "Dream Space",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🍦📚",
+    "answer": "Cool Night",
+    "category": "Food"
+  },
+  {
+    "emoji": "👑🦄",
+    "answer": "Funny Cat",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🐶📱🌍🍦",
+    "answer": "Smart Phone",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🍕🎮🐶🧠",
+    "answer": "Galaxy Quest",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🦄🎬",
+    "answer": "Dream Space",
+    "category": "Food"
+  },
+  {
+    "emoji": "🌍🍩💧🔥",
+    "answer": "Cool Night",
+    "category": "Food"
+  },
+  {
+    "emoji": "🍦❤️💧",
+    "answer": "Happy World",
+    "category": "Object"
+  },
+  {
+    "emoji": "🔥🚀",
+    "answer": "Moon Ice",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💡🍕🏆🐶",
+    "answer": "Smart Phone",
+    "category": "Food"
+  },
+  {
+    "emoji": "🎬🍦💡🔥",
+    "answer": "Electric Fire",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "📚💡🪐🐱",
+    "answer": "Electric Fire",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🚗📷💧🧠",
+    "answer": "Smart Phone",
+    "category": "Activity"
+  },
+  {
+    "emoji": "📱🌍💡",
+    "answer": "Power Brain",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🍩💼🎯🐶",
+    "answer": "Smart Goal",
+    "category": "Object"
+  },
+  {
+    "emoji": "🍦🎸🧊",
+    "answer": "Ice Power",
+    "category": "Object"
+  },
+  {
+    "emoji": "🏆🦄🌈",
+    "answer": "Moon Ice",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🎯🪐🎵🕶️",
+    "answer": "Electric Fire",
+    "category": "Food"
+  },
+  {
+    "emoji": "🎮🏆",
+    "answer": "Smart Phone",
+    "category": "Place"
+  },
+  {
+    "emoji": "🎸🕶️🎯🎸",
+    "answer": "Happy World",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🚗🔥🎬❤️",
+    "answer": "Galaxy Quest",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "❤️🐱🎮",
+    "answer": "Cool Night",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎸💡🐶",
+    "answer": "Ice Cream",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "📱🚀🚀",
+    "answer": "Fast Mind",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🎬💧",
+    "answer": "Ice Power",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🌈🍕🌍🍩",
+    "answer": "Ice Power",
+    "category": "Food"
+  },
+  {
+    "emoji": "🐱🪐📚🎸",
+    "answer": "Dream Space",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🎯🔥🐱",
+    "answer": "Galaxy Quest",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🌈💧⚡",
+    "answer": "Rocket Love",
+    "category": "Object"
+  },
+  {
+    "emoji": "💧🌈🚀",
+    "answer": "Ice Power",
+    "category": "Technology"
+  },
+  {
+    "emoji": "👑🎯🏆🎬",
+    "answer": "Smart Phone",
+    "category": "Food"
+  },
+  {
+    "emoji": "📱🐱",
+    "answer": "Happy World",
+    "category": "Object"
+  },
+  {
+    "emoji": "🎯🔥",
+    "answer": "Funny Cat",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💧💼🌈🏆",
+    "answer": "Rocket Love",
+    "category": "Food"
+  },
+  {
+    "emoji": "📚💧💧👑",
+    "answer": "Smart Goal",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🍩🌈",
+    "answer": "Fast Car",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🔥🎸",
+    "answer": "Rocket Love",
+    "category": "Animal"
+  },
+  {
+    "emoji": "💼🎮📱🌍",
+    "answer": "Ice Power",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🍕🍩🎬",
+    "answer": "Galaxy Quest",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🦄📚🎮",
+    "answer": "Smart Goal",
+    "category": "Object"
+  },
+  {
+    "emoji": "💡⚡❤️🚀",
+    "answer": "Electric Fire",
+    "category": "Food"
+  },
+  {
+    "emoji": "🧊🐱🎵",
+    "answer": "Galaxy Quest",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🍩🕶️🪐",
+    "answer": "Smart Phone",
+    "category": "Place"
+  },
+  {
+    "emoji": "🎵🕶️",
+    "answer": "Happy World",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🎸🎸",
+    "answer": "Electric Fire",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🌈🐱",
+    "answer": "Fast Car",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🏆💡🧠🚗",
+    "answer": "Funny Cat",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🎮🧊",
+    "answer": "Smart Phone",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🚀🧊🕶️❤️",
+    "answer": "Dream Space",
+    "category": "Food"
+  },
+  {
+    "emoji": "🦄💼🎮🎯",
+    "answer": "Dream Space",
+    "category": "Animal"
+  },
+  {
+    "emoji": "📚🌈🍦🍩",
+    "answer": "Power Brain",
+    "category": "Activity"
+  },
+  {
+    "emoji": "⚡❤️🎯🐱",
+    "answer": "Funny Cat",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🔥🚗🎬",
+    "answer": "Power Brain",
+    "category": "Activity"
+  },
+  {
+    "emoji": "📱🚗🌍🏆",
+    "answer": "Moon Ice",
+    "category": "Food"
+  },
+  {
+    "emoji": "📱🍦",
+    "answer": "Happy World",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🐶💡🎸🎸",
+    "answer": "Fast Car",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🔥💼🏆🎯",
+    "answer": "Funny Cat",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🌈🎬🎮",
+    "answer": "Moon Ice",
+    "category": "Place"
+  },
+  {
+    "emoji": "📚🪐🏆🦄",
+    "answer": "Moon Ice",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🧊📚🚗",
+    "answer": "Happy World",
+    "category": "Object"
+  },
+  {
+    "emoji": "🦄💼",
+    "answer": "Power Brain",
+    "category": "Activity"
+  },
+  {
+    "emoji": "📷🦄🎸",
+    "answer": "Cool Night",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🚀🐱",
+    "answer": "Smart Phone",
+    "category": "Food"
+  },
+  {
+    "emoji": "🎬🎬📚",
+    "answer": "Ice Power",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🏆💡🧊",
+    "answer": "Cool Night",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🌈💧",
+    "answer": "Power Brain",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🕶️💧",
+    "answer": "Galaxy Quest",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🐱💼🎯",
+    "answer": "Cool Night",
+    "category": "Object"
+  },
+  {
+    "emoji": "📚📱",
+    "answer": "Electric Fire",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🚗🔥",
+    "answer": "Happy World",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🚀👑🦄🧠",
+    "answer": "Ice Power",
+    "category": "Food"
+  },
+  {
+    "emoji": "⚡❤️📷",
+    "answer": "Fast Mind",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🎵🦄",
+    "answer": "Funny Cat",
+    "category": "Food"
+  },
+  {
+    "emoji": "🚀🏆🚀",
+    "answer": "Ice Power",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🍕🔥🧊⚡",
+    "answer": "Smart Phone",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🍦🎵🏆🎸",
+    "answer": "Dream Space",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🚀🧠⚡🌈",
+    "answer": "Ice Power",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🌍🚗",
+    "answer": "Happy World",
+    "category": "Food"
+  },
+  {
+    "emoji": "🕶️🍕🧊",
+    "answer": "Fast Car",
+    "category": "Object"
+  },
+  {
+    "emoji": "🕶️🍦🎸",
+    "answer": "Ice Power",
+    "category": "Brand"
+  },
+  {
+    "emoji": "💼📚🌈👑",
+    "answer": "Happy World",
+    "category": "Food"
+  },
+  {
+    "emoji": "🍦🕶️🌈🎸",
+    "answer": "Fast Mind",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🎵💧🧊🍦",
+    "answer": "Smart Phone",
+    "category": "Animal"
+  },
+  {
+    "emoji": "📱🪐🎮",
+    "answer": "Cool Night",
+    "category": "Place"
+  },
+  {
+    "emoji": "💧💡",
+    "answer": "Smart Goal",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🌈🕶️",
+    "answer": "Funny Cat",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "⚡🦄🔥🎯",
+    "answer": "Funny Cat",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🐱📚📷",
+    "answer": "Smart Phone",
+    "category": "Object"
+  },
+  {
+    "emoji": "👑🏆🐶🌈",
+    "answer": "Dream Space",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🚗🐱",
+    "answer": "Fast Car",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🚗💡💼",
+    "answer": "Ice Cream",
+    "category": "Place"
+  },
+  {
+    "emoji": "🔥🚀",
+    "answer": "Smart Goal",
+    "category": "Movie"
+  },
+  {
+    "emoji": "📱🏆",
+    "answer": "Cool Night",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🚗🏆",
+    "answer": "Happy World",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🐱🎯❤️",
+    "answer": "Happy World",
+    "category": "Brand"
+  },
+  {
+    "emoji": "📚🎯🎮🚗",
+    "answer": "Fast Car",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🎸📱🪐❤️",
+    "answer": "Ice Power",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🔥🐱🦄🎵",
+    "answer": "Happy World",
+    "category": "Object"
+  },
+  {
+    "emoji": "🎬🍩🎬",
+    "answer": "Dream Space",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🏆📱🪐🚀",
+    "answer": "Rocket Love",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "💡📷🚀",
+    "answer": "Rocket Love",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🚀🎮",
+    "answer": "Cool Night",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🌍📷🎬",
+    "answer": "Fast Mind",
+    "category": "Activity"
+  },
+  {
+    "emoji": "📱💧🐶🎬",
+    "answer": "Smart Goal",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🌈⚡❤️",
+    "answer": "Moon Ice",
+    "category": "Object"
+  },
+  {
+    "emoji": "🎮🎯",
+    "answer": "Power Brain",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🐱🐶🎵",
+    "answer": "Galaxy Quest",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🎮🪐🦄",
+    "answer": "Smart Phone",
+    "category": "Object"
+  },
+  {
+    "emoji": "🍦🍩🚀🎯",
+    "answer": "Dream Space",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🧊📱",
+    "answer": "Cool Night",
+    "category": "Object"
+  },
+  {
+    "emoji": "🍕📱",
+    "answer": "Dream Space",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🌍❤️🕶️🌈",
+    "answer": "Power Brain",
+    "category": "Animal"
+  },
+  {
+    "emoji": "💼💼🚀",
+    "answer": "Fast Mind",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🍩👑",
+    "answer": "Electric Fire",
+    "category": "Animal"
+  },
+  {
+    "emoji": "💼🍕🎯🚗",
+    "answer": "Cool Night",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🎵👑📚🍦",
+    "answer": "Galaxy Quest",
+    "category": "Brand"
+  },
+  {
+    "emoji": "💼🎸",
+    "answer": "Smart Goal",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🌍📚💡",
+    "answer": "Dream Space",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "⚡🧠📷",
+    "answer": "Ice Power",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🍩🍦",
+    "answer": "Electric Fire",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🧊🎵",
+    "answer": "Moon Ice",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💡💼🔥💡",
+    "answer": "Moon Ice",
+    "category": "Object"
+  },
+  {
+    "emoji": "🔥📷🌍",
+    "answer": "Moon Ice",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🦄💼⚡💡",
+    "answer": "Smart Goal",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🐱❤️📱",
+    "answer": "Fast Mind",
+    "category": "Place"
+  },
+  {
+    "emoji": "⚡🚗🍩🌈",
+    "answer": "Funny Cat",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎯👑🌍",
+    "answer": "Funny Cat",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🍩🦄🎸🏆",
+    "answer": "Smart Phone",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🦄❤️",
+    "answer": "Ice Cream",
+    "category": "Brand"
+  },
+  {
+    "emoji": "❤️🪐🐱🍕",
+    "answer": "Smart Goal",
+    "category": "Place"
+  },
+  {
+    "emoji": "🐶🚗🎯⚡",
+    "answer": "Rocket Love",
+    "category": "Brand"
+  },
+  {
+    "emoji": "💼🧠🦄",
+    "answer": "Power Brain",
+    "category": "Technology"
+  },
+  {
+    "emoji": "💼🏆🐶",
+    "answer": "Rocket Love",
+    "category": "Place"
+  },
+  {
+    "emoji": "🪐💡",
+    "answer": "Fast Car",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🚗🐶",
+    "answer": "Smart Phone",
+    "category": "Technology"
+  },
+  {
+    "emoji": "📷👑🐱🐱",
+    "answer": "Power Brain",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🐱🎮🌍",
+    "answer": "Funny Cat",
+    "category": "Food"
+  },
+  {
+    "emoji": "🚀🍦📷",
+    "answer": "Fast Mind",
+    "category": "Activity"
+  },
+  {
+    "emoji": "⚡🎮🏆🍕",
+    "answer": "Ice Cream",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🌍🧠📱",
+    "answer": "Smart Phone",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🧊❤️🌈📱",
+    "answer": "Fast Mind",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🧊🦄🕶️",
+    "answer": "Smart Goal",
+    "category": "Food"
+  },
+  {
+    "emoji": "🎯💼",
+    "answer": "Dream Space",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🏆🧠🍦",
+    "answer": "Fast Car",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🔥🎮",
+    "answer": "Fast Car",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🌈❤️⚡📷",
+    "answer": "Galaxy Quest",
+    "category": "Object"
+  },
+  {
+    "emoji": "🪐🐱",
+    "answer": "Smart Goal",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🔥🎬💡",
+    "answer": "Happy World",
+    "category": "Place"
+  },
+  {
+    "emoji": "🎮💡🔥",
+    "answer": "Ice Cream",
+    "category": "Animal"
+  },
+  {
+    "emoji": "💧📱💡🧊",
+    "answer": "Fast Mind",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "📱💡",
+    "answer": "Cool Night",
+    "category": "Food"
+  },
+  {
+    "emoji": "💡🎮🎯",
+    "answer": "Fast Car",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "⚡🏆🦄⚡",
+    "answer": "Galaxy Quest",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🧊🍕",
+    "answer": "Electric Fire",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🪐🧠🍦",
+    "answer": "Ice Power",
+    "category": "Brand"
+  },
+  {
+    "emoji": "💼🌍🍦",
+    "answer": "Happy World",
+    "category": "Activity"
+  },
+  {
+    "emoji": "❤️❤️🪐🧊",
+    "answer": "Ice Cream",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🕶️🐱🕶️💧",
+    "answer": "Dream Space",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🍕🧠🚗",
+    "answer": "Funny Cat",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🐶🚀",
+    "answer": "Electric Fire",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "👑📱🔥",
+    "answer": "Dream Space",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🎮🧠🚗",
+    "answer": "Cool Night",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🕶️💡🎮🐶",
+    "answer": "Electric Fire",
+    "category": "Object"
+  },
+  {
+    "emoji": "💡🍩📷🚗",
+    "answer": "Fast Car",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🕶️📱💧",
+    "answer": "Cool Night",
+    "category": "Animal"
+  },
+  {
+    "emoji": "❤️🦄",
+    "answer": "Dream Space",
+    "category": "Object"
+  },
+  {
+    "emoji": "🎵🔥💡📷",
+    "answer": "Smart Phone",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🍦🐱",
+    "answer": "Ice Power",
+    "category": "Food"
+  },
+  {
+    "emoji": "❤️🍦🎸",
+    "answer": "Cool Night",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🦄🔥",
+    "answer": "Moon Ice",
+    "category": "Place"
+  },
+  {
+    "emoji": "💼👑",
+    "answer": "Funny Cat",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🧊🍦🎸",
+    "answer": "Power Brain",
+    "category": "Movie"
+  },
+  {
+    "emoji": "📷🧊🐱🍦",
+    "answer": "Electric Fire",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🏆🎯❤️🚗",
+    "answer": "Ice Power",
+    "category": "Object"
+  },
+  {
+    "emoji": "🌍📱🎸",
+    "answer": "Moon Ice",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🍕⚡🎵",
+    "answer": "Happy World",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "📷🧠",
+    "answer": "Rocket Love",
+    "category": "Food"
+  },
+  {
+    "emoji": "🎵🪐",
+    "answer": "Ice Power",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🎯🏆🪐",
+    "answer": "Ice Power",
+    "category": "Object"
+  },
+  {
+    "emoji": "🎬🎬",
+    "answer": "Cool Night",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💡🚗🎬",
+    "answer": "Fast Mind",
+    "category": "Technology"
+  },
+  {
+    "emoji": "📱🎵",
+    "answer": "Moon Ice",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎬🪐",
+    "answer": "Fast Car",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🍩🎸🎵🧊",
+    "answer": "Cool Night",
+    "category": "Brand"
+  },
+  {
+    "emoji": "📚🏆",
+    "answer": "Electric Fire",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🍩💧",
+    "answer": "Ice Cream",
+    "category": "Activity"
+  },
+  {
+    "emoji": "⚡🐱❤️",
+    "answer": "Electric Fire",
+    "category": "Food"
+  },
+  {
+    "emoji": "🍕💡🧊🍦",
+    "answer": "Power Brain",
+    "category": "Technology"
+  },
+  {
+    "emoji": "📱🍦🎬",
+    "answer": "Happy World",
+    "category": "Food"
+  },
+  {
+    "emoji": "🔥📱🐱🎸",
+    "answer": "Dream Space",
+    "category": "Activity"
+  },
+  {
+    "emoji": "💧🕶️🪐",
+    "answer": "Power Brain",
+    "category": "Activity"
+  },
+  {
+    "emoji": "💼🕶️🎸",
+    "answer": "Happy World",
+    "category": "Object"
+  },
+  {
+    "emoji": "❤️💧🦄",
+    "answer": "Ice Cream",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🌍🧠🎮",
+    "answer": "Dream Space",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🌈🪐⚡",
+    "answer": "Smart Phone",
+    "category": "Object"
+  },
+  {
+    "emoji": "🚗🚀",
+    "answer": "Rocket Love",
+    "category": "Food"
+  },
+  {
+    "emoji": "🍩🧠⚡",
+    "answer": "Rocket Love",
+    "category": "Place"
+  },
+  {
+    "emoji": "📚🍕",
+    "answer": "Smart Phone",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🎵🍦🐱",
+    "answer": "Funny Cat",
+    "category": "Food"
+  },
+  {
+    "emoji": "🕶️🎮🌍💼",
+    "answer": "Happy World",
+    "category": "Place"
+  },
+  {
+    "emoji": "🎬📚🎵🎬",
+    "answer": "Smart Goal",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🍦❤️🔥💧",
+    "answer": "Rocket Love",
+    "category": "Food"
+  },
+  {
+    "emoji": "🎮🧊🚀🧊",
+    "answer": "Smart Goal",
+    "category": "Object"
+  },
+  {
+    "emoji": "🍦📷🕶️🚗",
+    "answer": "Smart Goal",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🐱🚀",
+    "answer": "Moon Ice",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🎯🪐",
+    "answer": "Power Brain",
+    "category": "Activity"
+  },
+  {
+    "emoji": "⚡⚡💼",
+    "answer": "Funny Cat",
+    "category": "Object"
+  },
+  {
+    "emoji": "🕶️🎬🐶🔥",
+    "answer": "Ice Cream",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🎮💡🚗",
+    "answer": "Ice Power",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎮🍩🦄",
+    "answer": "Rocket Love",
+    "category": "Place"
+  },
+  {
+    "emoji": "🍦⚡",
+    "answer": "Electric Fire",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💧🎸",
+    "answer": "Galaxy Quest",
+    "category": "Place"
+  },
+  {
+    "emoji": "🐱💡💧🎬",
+    "answer": "Happy World",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💼🧊🏆",
+    "answer": "Smart Phone",
+    "category": "Place"
+  },
+  {
+    "emoji": "🎮🍕💡🚀",
+    "answer": "Funny Cat",
+    "category": "Place"
+  },
+  {
+    "emoji": "🍕🕶️❤️🏆",
+    "answer": "Rocket Love",
+    "category": "Food"
+  },
+  {
+    "emoji": "🐱🐶🚀💧",
+    "answer": "Fast Mind",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🧠🚀🎯💼",
+    "answer": "Smart Phone",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🐶📱📱💼",
+    "answer": "Rocket Love",
+    "category": "Object"
+  },
+  {
+    "emoji": "💧🍦🎵",
+    "answer": "Smart Goal",
+    "category": "Object"
+  },
+  {
+    "emoji": "🔥🕶️",
+    "answer": "Galaxy Quest",
+    "category": "Animal"
+  },
+  {
+    "emoji": "❤️📚",
+    "answer": "Electric Fire",
+    "category": "Object"
+  },
+  {
+    "emoji": "🎸💧🏆🎮",
+    "answer": "Smart Goal",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🚀🏆",
+    "answer": "Ice Cream",
+    "category": "Food"
+  },
+  {
+    "emoji": "📷🧠",
+    "answer": "Dream Space",
+    "category": "Food"
+  },
+  {
+    "emoji": "🎵🚗🚗",
+    "answer": "Ice Power",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🏆🌈🌈🎮",
+    "answer": "Electric Fire",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🦄❤️🎵💧",
+    "answer": "Ice Power",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🍦👑",
+    "answer": "Fast Mind",
+    "category": "Place"
+  },
+  {
+    "emoji": "🐶📷",
+    "answer": "Smart Phone",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🚗🏆🐶",
+    "answer": "Happy World",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🕶️🚀🐱",
+    "answer": "Smart Phone",
+    "category": "Brand"
+  },
+  {
+    "emoji": "💧🎸",
+    "answer": "Ice Power",
+    "category": "Technology"
+  },
+  {
+    "emoji": "📷📱",
+    "answer": "Moon Ice",
+    "category": "Object"
+  },
+  {
+    "emoji": "🍦🦄🚀🍦",
+    "answer": "Smart Goal",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🍩❤️🐱🐶",
+    "answer": "Fast Car",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🌍📱🌈🍩",
+    "answer": "Fast Mind",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🕶️🌈💼",
+    "answer": "Ice Cream",
+    "category": "Object"
+  },
+  {
+    "emoji": "👑🦄",
+    "answer": "Happy World",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🌈🧠📚🌈",
+    "answer": "Moon Ice",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🪐📷💡🌍",
+    "answer": "Power Brain",
+    "category": "Movie"
+  },
+  {
+    "emoji": "📷📷🚀",
+    "answer": "Smart Phone",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🌈❤️🧠🦄",
+    "answer": "Ice Cream",
+    "category": "Object"
+  },
+  {
+    "emoji": "💡🌈🚗🍦",
+    "answer": "Power Brain",
+    "category": "Activity"
+  },
+  {
+    "emoji": "📷💡🌍🎸",
+    "answer": "Smart Phone",
+    "category": "Place"
+  },
+  {
+    "emoji": "🐱💡",
+    "answer": "Cool Night",
+    "category": "Movie"
+  },
+  {
+    "emoji": "⚡🦄🍦",
+    "answer": "Happy World",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🚀🧠📱🎮",
+    "answer": "Ice Power",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🌍🎬🕶️🎵",
+    "answer": "Ice Power",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🌈📚",
+    "answer": "Dream Space",
+    "category": "Object"
+  },
+  {
+    "emoji": "⚡🎵",
+    "answer": "Fast Car",
+    "category": "Place"
+  },
+  {
+    "emoji": "🕶️🎯🚀📱",
+    "answer": "Cool Night",
+    "category": "Object"
+  },
+  {
+    "emoji": "🎯⚡",
+    "answer": "Rocket Love",
+    "category": "Object"
+  },
+  {
+    "emoji": "🍩⚡",
+    "answer": "Ice Cream",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎮📷🎬",
+    "answer": "Electric Fire",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🕶️🚀",
+    "answer": "Electric Fire",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🧠🌈🪐📚",
+    "answer": "Ice Cream",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🧊💼⚡🔥",
+    "answer": "Dream Space",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🐱💼👑🍕",
+    "answer": "Dream Space",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🚗📷",
+    "answer": "Funny Cat",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🎸💧",
+    "answer": "Moon Ice",
+    "category": "Food"
+  },
+  {
+    "emoji": "🧠🦄🧊",
+    "answer": "Smart Phone",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🍕🏆💡🧊",
+    "answer": "Dream Space",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🕶️❤️👑",
+    "answer": "Rocket Love",
+    "category": "Food"
+  },
+  {
+    "emoji": "🎵🎯🎸🧊",
+    "answer": "Smart Phone",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🍦🚀🎸",
+    "answer": "Electric Fire",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🎬📚",
+    "answer": "Cool Night",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🦄⚡⚡🚗",
+    "answer": "Electric Fire",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🔥🪐",
+    "answer": "Galaxy Quest",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🍕🧠",
+    "answer": "Fast Car",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🌍🎯🌍🐶",
+    "answer": "Cool Night",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🔥🎵🎬",
+    "answer": "Happy World",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎯🐱🍩",
+    "answer": "Ice Power",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "💧🌈🎮📱",
+    "answer": "Funny Cat",
+    "category": "Food"
+  },
+  {
+    "emoji": "🔥🐱",
+    "answer": "Smart Goal",
+    "category": "Food"
+  },
+  {
+    "emoji": "📷🌍👑",
+    "answer": "Electric Fire",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🌍🏆",
+    "answer": "Smart Goal",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🔥🚀",
+    "answer": "Ice Power",
+    "category": "Food"
+  },
+  {
+    "emoji": "🍕🌈🎬📚",
+    "answer": "Dream Space",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🧊🎵💡🚗",
+    "answer": "Smart Goal",
+    "category": "Object"
+  },
+  {
+    "emoji": "❤️🍕💧",
+    "answer": "Dream Space",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🚗🏆❤️",
+    "answer": "Fast Mind",
+    "category": "Food"
+  },
+  {
+    "emoji": "🪐📚🍦",
+    "answer": "Happy World",
+    "category": "Place"
+  },
+  {
+    "emoji": "💼🎵🎬",
+    "answer": "Funny Cat",
+    "category": "Object"
+  },
+  {
+    "emoji": "📱💡⚡",
+    "answer": "Power Brain",
+    "category": "Movie"
+  },
+  {
+    "emoji": "👑🍕⚡🍩",
+    "answer": "Fast Car",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🔥💼🔥⚡",
+    "answer": "Galaxy Quest",
+    "category": "Object"
+  },
+  {
+    "emoji": "❤️👑",
+    "answer": "Moon Ice",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🌍🌈",
+    "answer": "Electric Fire",
+    "category": "Place"
+  },
+  {
+    "emoji": "🍕🕶️🪐",
+    "answer": "Cool Night",
+    "category": "Food"
+  },
+  {
+    "emoji": "💡🐱",
+    "answer": "Happy World",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🍦🦄🪐📚",
+    "answer": "Funny Cat",
+    "category": "Animal"
+  },
+  {
+    "emoji": "📱💡🧊🎮",
+    "answer": "Ice Power",
+    "category": "Brand"
+  },
+  {
+    "emoji": "💡🍩💡🍕",
+    "answer": "Happy World",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🦄🐶🐶👑",
+    "answer": "Ice Power",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🚀❤️",
+    "answer": "Power Brain",
+    "category": "Object"
+  },
+  {
+    "emoji": "🦄🚗❤️",
+    "answer": "Electric Fire",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🐱🧊📷",
+    "answer": "Moon Ice",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🐱📚🧊",
+    "answer": "Happy World",
+    "category": "Food"
+  },
+  {
+    "emoji": "⚡🧊🔥",
+    "answer": "Happy World",
+    "category": "Animal"
+  },
+  {
+    "emoji": "⚡🐶🔥🔥",
+    "answer": "Fast Mind",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🎮🍕",
+    "answer": "Ice Power",
+    "category": "Object"
+  },
+  {
+    "emoji": "⚡💧",
+    "answer": "Smart Phone",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🎬🏆🧊",
+    "answer": "Cool Night",
+    "category": "Food"
+  },
+  {
+    "emoji": "👑🎸🔥",
+    "answer": "Happy World",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🐶🎯🔥",
+    "answer": "Smart Goal",
+    "category": "Place"
+  },
+  {
+    "emoji": "🍦🔥👑",
+    "answer": "Smart Goal",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🕶️🎬📚",
+    "answer": "Happy World",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🍩📷🔥❤️",
+    "answer": "Ice Power",
+    "category": "Object"
+  },
+  {
+    "emoji": "🚗🦄🍩",
+    "answer": "Power Brain",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "💡🚗🎮",
+    "answer": "Power Brain",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🧊🕶️",
+    "answer": "Happy World",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🧊📚🪐📚",
+    "answer": "Ice Power",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🧠🌈🐱",
+    "answer": "Smart Phone",
+    "category": "Object"
+  },
+  {
+    "emoji": "🌍🦄📚",
+    "answer": "Fast Mind",
+    "category": "Food"
+  },
+  {
+    "emoji": "📚🍦🎸",
+    "answer": "Electric Fire",
+    "category": "Object"
+  },
+  {
+    "emoji": "🌈🐶🎸",
+    "answer": "Rocket Love",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🐱🪐🐱🧊",
+    "answer": "Rocket Love",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🍦🏆🚗",
+    "answer": "Power Brain",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🎮🎯",
+    "answer": "Happy World",
+    "category": "Technology"
+  },
+  {
+    "emoji": "📚❤️🍕🍦",
+    "answer": "Ice Power",
+    "category": "Food"
+  },
+  {
+    "emoji": "🧠🎮📱",
+    "answer": "Smart Goal",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🌍🪐🪐",
+    "answer": "Electric Fire",
+    "category": "Animal"
+  },
+  {
+    "emoji": "❤️❤️📷🌍",
+    "answer": "Moon Ice",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🕶️🧊🎸",
+    "answer": "Smart Goal",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🏆🏆🔥",
+    "answer": "Ice Power",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🧠💼",
+    "answer": "Electric Fire",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🎵🧊🕶️",
+    "answer": "Fast Mind",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🦄🚀🪐🪐",
+    "answer": "Fast Car",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🏆🍦🎸🍕",
+    "answer": "Power Brain",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🌈🧊🎵",
+    "answer": "Dream Space",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "👑🐶",
+    "answer": "Galaxy Quest",
+    "category": "Place"
+  },
+  {
+    "emoji": "🎬❤️💡",
+    "answer": "Smart Goal",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🏆🍦🎵👑",
+    "answer": "Dream Space",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🌍👑",
+    "answer": "Smart Goal",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🎸🎸🌈",
+    "answer": "Fast Mind",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🌈🎮",
+    "answer": "Cool Night",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🍦⚡",
+    "answer": "Ice Power",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🎸🎬🐱",
+    "answer": "Galaxy Quest",
+    "category": "Food"
+  },
+  {
+    "emoji": "🏆🍦🚗",
+    "answer": "Rocket Love",
+    "category": "Food"
+  },
+  {
+    "emoji": "🧠📱💧",
+    "answer": "Power Brain",
+    "category": "Object"
+  },
+  {
+    "emoji": "⚡💡",
+    "answer": "Dream Space",
+    "category": "Animal"
+  },
+  {
+    "emoji": "💡🧠🌈",
+    "answer": "Funny Cat",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "💡🚀",
+    "answer": "Dream Space",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🕶️🍩🧊🏆",
+    "answer": "Dream Space",
+    "category": "Place"
+  },
+  {
+    "emoji": "🎸🧠",
+    "answer": "Moon Ice",
+    "category": "Animal"
+  },
+  {
+    "emoji": "💼🎬",
+    "answer": "Galaxy Quest",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "👑💡❤️📱",
+    "answer": "Smart Phone",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🧊🕶️",
+    "answer": "Fast Mind",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🧠💡🐶🌈",
+    "answer": "Fast Car",
+    "category": "Activity"
+  },
+  {
+    "emoji": "📱🍩🎯🍦",
+    "answer": "Fast Car",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🦄🧊🚗🎸",
+    "answer": "Fast Mind",
+    "category": "Movie"
+  },
+  {
+    "emoji": "📱🎯🎮",
+    "answer": "Smart Phone",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "👑🪐🍕💼",
+    "answer": "Ice Cream",
+    "category": "Food"
+  },
+  {
+    "emoji": "🎮🏆🕶️🪐",
+    "answer": "Power Brain",
+    "category": "Place"
+  },
+  {
+    "emoji": "💡🍕",
+    "answer": "Smart Phone",
+    "category": "Activity"
+  },
+  {
+    "emoji": "💼🎬🐱📱",
+    "answer": "Fast Car",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🐱🍦🦄💡",
+    "answer": "Ice Cream",
+    "category": "Object"
+  },
+  {
+    "emoji": "🍕💼🍦",
+    "answer": "Moon Ice",
+    "category": "Animal"
+  },
+  {
+    "emoji": "💧🎮",
+    "answer": "Funny Cat",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🎯❤️",
+    "answer": "Fast Car",
+    "category": "Place"
+  },
+  {
+    "emoji": "🚀🍦🎯🍩",
+    "answer": "Dream Space",
+    "category": "Animal"
+  },
+  {
+    "emoji": "📚🍦📷",
+    "answer": "Ice Cream",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🎸🧠🔥",
+    "answer": "Happy World",
+    "category": "Activity"
+  },
+  {
+    "emoji": "💡🦄🕶️🔥",
+    "answer": "Fast Car",
+    "category": "Brand"
+  },
+  {
+    "emoji": "💼🎯💡",
+    "answer": "Cool Night",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🐱🍕📚",
+    "answer": "Smart Phone",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🌈🌍🚗",
+    "answer": "Ice Power",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🔥🚀🎵🍦",
+    "answer": "Fast Mind",
+    "category": "Food"
+  },
+  {
+    "emoji": "🌈📚",
+    "answer": "Smart Phone",
+    "category": "Activity"
+  },
+  {
+    "emoji": "📷💡🚀",
+    "answer": "Fast Car",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🌍🚀🧊",
+    "answer": "Rocket Love",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🐶🎵🧊🪐",
+    "answer": "Funny Cat",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🎸👑🍦",
+    "answer": "Happy World",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🎸🐱💧",
+    "answer": "Dream Space",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🌈🕶️",
+    "answer": "Cool Night",
+    "category": "Food"
+  },
+  {
+    "emoji": "💡🎮",
+    "answer": "Fast Car",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🎬🎵",
+    "answer": "Smart Goal",
+    "category": "Food"
+  },
+  {
+    "emoji": "🕶️🧊💼🌈",
+    "answer": "Fast Car",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💧🌍🚗",
+    "answer": "Smart Goal",
+    "category": "Technology"
+  },
+  {
+    "emoji": "📷🎯🧊💼",
+    "answer": "Ice Cream",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💼⚡",
+    "answer": "Ice Power",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🐶🎸🎯📷",
+    "answer": "Happy World",
+    "category": "Animal"
+  },
+  {
+    "emoji": "💡🧠",
+    "answer": "Fast Car",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🐱🧠💧🧊",
+    "answer": "Fast Car",
+    "category": "Place"
+  },
+  {
+    "emoji": "💡🔥",
+    "answer": "Galaxy Quest",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🌈🕶️🌈🎸",
+    "answer": "Fast Car",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🍦💧",
+    "answer": "Dream Space",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🐶🚗🍕🔥",
+    "answer": "Smart Goal",
+    "category": "Object"
+  },
+  {
+    "emoji": "🪐🎮🎯",
+    "answer": "Fast Mind",
+    "category": "Place"
+  },
+  {
+    "emoji": "⚡🎮🌍",
+    "answer": "Smart Phone",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🦄🚀🕶️🚀",
+    "answer": "Smart Phone",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🦄🚀📚❤️",
+    "answer": "Moon Ice",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🎬💡🧠",
+    "answer": "Fast Mind",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🐶🕶️",
+    "answer": "Happy World",
+    "category": "Object"
+  },
+  {
+    "emoji": "🐶🐶",
+    "answer": "Fast Mind",
+    "category": "Object"
+  },
+  {
+    "emoji": "🧊🎵",
+    "answer": "Rocket Love",
+    "category": "Technology"
+  },
+  {
+    "emoji": "💼🪐🎸",
+    "answer": "Smart Goal",
+    "category": "Place"
+  },
+  {
+    "emoji": "🧠❤️🍕🚗",
+    "answer": "Moon Ice",
+    "category": "Food"
+  },
+  {
+    "emoji": "🏆💼🍩",
+    "answer": "Galaxy Quest",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🍕📱",
+    "answer": "Galaxy Quest",
+    "category": "Object"
+  },
+  {
+    "emoji": "🚗💡",
+    "answer": "Smart Phone",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🪐🎮🚗🎵",
+    "answer": "Smart Phone",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🐶🔥",
+    "answer": "Fast Mind",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🔥👑",
+    "answer": "Electric Fire",
+    "category": "Object"
+  },
+  {
+    "emoji": "👑🪐💧",
+    "answer": "Fast Mind",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🌍🎬",
+    "answer": "Dream Space",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🧠📷",
+    "answer": "Fast Mind",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🔥🐱🍩",
+    "answer": "Ice Power",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🧠🎮❤️",
+    "answer": "Funny Cat",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "💡🐶",
+    "answer": "Ice Cream",
+    "category": "Movie"
+  },
+  {
+    "emoji": "📚💼🐱🚗",
+    "answer": "Electric Fire",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🦄🧊",
+    "answer": "Cool Night",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🕶️❤️",
+    "answer": "Dream Space",
+    "category": "Food"
+  },
+  {
+    "emoji": "🐶👑📚",
+    "answer": "Fast Car",
+    "category": "Technology"
+  },
+  {
+    "emoji": "⚡💡🦄🧠",
+    "answer": "Smart Goal",
+    "category": "Place"
+  },
+  {
+    "emoji": "🪐🎯🎵",
+    "answer": "Moon Ice",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🎬💡",
+    "answer": "Electric Fire",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🍩💡📚",
+    "answer": "Happy World",
+    "category": "Place"
+  },
+  {
+    "emoji": "🐶🎵🍕🍕",
+    "answer": "Electric Fire",
+    "category": "Place"
+  },
+  {
+    "emoji": "💡📱",
+    "answer": "Cool Night",
+    "category": "Object"
+  },
+  {
+    "emoji": "🍩🍩🌍",
+    "answer": "Funny Cat",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🌍💡🦄🌈",
+    "answer": "Happy World",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "💼🎯⚡🪐",
+    "answer": "Electric Fire",
+    "category": "Animal"
+  },
+  {
+    "emoji": "📷🎸",
+    "answer": "Galaxy Quest",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🕶️❤️💡📷",
+    "answer": "Rocket Love",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🎬🎬",
+    "answer": "Fast Mind",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🍕🌈🧊🐶",
+    "answer": "Moon Ice",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🎯❤️🚀🐱",
+    "answer": "Smart Phone",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🐶💼⚡💼",
+    "answer": "Power Brain",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🚗🕶️🐶🎯",
+    "answer": "Ice Power",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🐱📱❤️",
+    "answer": "Moon Ice",
+    "category": "Activity"
+  },
+  {
+    "emoji": "🚀🎬",
+    "answer": "Galaxy Quest",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🐶🏆🍕💼",
+    "answer": "Funny Cat",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🏆🌈🔥",
+    "answer": "Ice Cream",
+    "category": "Place"
+  },
+  {
+    "emoji": "💧🕶️",
+    "answer": "Power Brain",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🌈🧊",
+    "answer": "Fast Mind",
+    "category": "Movie"
+  },
+  {
+    "emoji": "💡📱🐶🔥",
+    "answer": "Moon Ice",
+    "category": "Object"
+  },
+  {
+    "emoji": "🐱🎮🕶️",
+    "answer": "Rocket Love",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🌍🎯🧊",
+    "answer": "Dream Space",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "🎵🍕",
+    "answer": "Ice Power",
+    "category": "Technology"
+  },
+  {
+    "emoji": "📚🧠🐶",
+    "answer": "Dream Space",
+    "category": "Movie"
+  },
+  {
+    "emoji": "🎬🧠",
+    "answer": "Galaxy Quest",
+    "category": "Movie"
+  },
+  {
+    "emoji": "👑⚡🎸",
+    "answer": "Ice Cream",
+    "category": "Brand"
+  },
+  {
+    "emoji": "💡💧",
+    "answer": "Fast Car",
+    "category": "Technology"
+  },
+  {
+    "emoji": "🚀🍕🐱",
+    "answer": "Electric Fire",
+    "category": "Place"
+  },
+  {
+    "emoji": "🏆👑💡",
+    "answer": "Fast Car",
+    "category": "Activity"
+  },
+  {
+    "emoji": "💼🧠🎸",
+    "answer": "Happy World",
+    "category": "Object"
+  },
+  {
+    "emoji": "🎮🐱🍦",
+    "answer": "Power Brain",
+    "category": "Object"
+  },
+  {
+    "emoji": "🍦🎯⚡",
+    "answer": "Smart Goal",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "🌈🍦",
+    "answer": "Cool Night",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🍦🍦🦄",
+    "answer": "Fast Mind",
+    "category": "Object"
+  },
+  {
+    "emoji": "🌍🎬",
+    "answer": "Cool Night",
+    "category": "Food"
+  },
+  {
+    "emoji": "💧⚡🎬🚗",
+    "answer": "Fast Car",
+    "category": "Movie"
+  },
+  {
+    "emoji": "📚🧊",
+    "answer": "Power Brain",
+    "category": "Emotion"
+  },
+  {
+    "emoji": "⚡❤️🐱",
+    "answer": "Galaxy Quest",
+    "category": "Movie"
+  },
+  {
+    "emoji": "📱🌍📱",
+    "answer": "Ice Cream",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "⚡💡🌈",
+    "answer": "Fast Mind",
+    "category": "Phrase"
+  },
+  {
+    "emoji": "👑🕶️📱",
+    "answer": "Rocket Love",
+    "category": "Activity"
+  },
+  {
+    "emoji": "📚📱",
+    "answer": "Smart Goal",
+    "category": "Object"
+  },
+  {
+    "emoji": "🕶️🏆📚🎬",
+    "answer": "Fast Car",
+    "category": "Animal"
+  },
+  {
+    "emoji": "🍕🎬❤️🔥",
+    "answer": "Galaxy Quest",
+    "category": "Brand"
+  },
+  {
+    "emoji": "🏆🧊❤️📷",
+    "answer": "Ice Cream",
+    "category": "Object"
+  },
+  {
+    "emoji": "🌈🍦📷",
+    "answer": "Power Brain",
+    "category": "Food"
+  },
+  {
+    "emoji": "📚🔥🎵💧",
+    "answer": "Cool Night",
+    "category": "Animal"
+  }
+]
